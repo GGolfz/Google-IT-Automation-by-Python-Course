@@ -1,0 +1,3 @@
+pytest-shutil
+pillow
+psutil
